@@ -1,0 +1,151 @@
+MlDomainName,MlIntentName,Utterance
+My_First_Intent_Set,Transfer_To_Agent,A human could do a better job here
+My_First_Intent_Set,Transfer_To_Agent,a real person to chat with
+My_First_Intent_Set,Transfer_To_Agent,Agent
+My_First_Intent_Set,Transfer_To_Agent,Agent damn it
+My_First_Intent_Set,Transfer_To_Agent,Agent now please!
+My_First_Intent_Set,Transfer_To_Agent,Agent please!
+My_First_Intent_Set,Transfer_To_Agent,Agent quick!
+My_First_Intent_Set,Transfer_To_Agent,Are you a bot? I'd like a human
+My_First_Intent_Set,Transfer_To_Agent,Ask agent
+My_First_Intent_Set,Transfer_To_Agent,"bill is a smart guy, can you transfer me to him"
+My_First_Intent_Set,Transfer_To_Agent,Can I ask someone?
+My_First_Intent_Set,Transfer_To_Agent,Can I chat with person instead?
+My_First_Intent_Set,Transfer_To_Agent,Can I talk to a human?
+My_First_Intent_Set,Transfer_To_Agent,Can I talk to a manager
+My_First_Intent_Set,Transfer_To_Agent,Can I talk to an agent?
+My_First_Intent_Set,Transfer_To_Agent,Can I talk with a human
+My_First_Intent_Set,Transfer_To_Agent,Can I talk with someone
+My_First_Intent_Set,Transfer_To_Agent,Can you pls transfer me now?
+My_First_Intent_Set,Transfer_To_Agent,Can you transfer me?
+My_First_Intent_Set,Transfer_To_Agent,chat with a human
+My_First_Intent_Set,Transfer_To_Agent,Chat with human
+My_First_Intent_Set,Transfer_To_Agent,Chat with supervisor
+My_First_Intent_Set,Transfer_To_Agent,Connect agent
+My_First_Intent_Set,Transfer_To_Agent,Connect me to a human
+My_First_Intent_Set,Transfer_To_Agent,Connect me to an agent
+My_First_Intent_Set,Transfer_To_Agent,Connect me to an agent!
+My_First_Intent_Set,Transfer_To_Agent,connect to a human
+My_First_Intent_Set,Transfer_To_Agent,connect to a real person
+My_First_Intent_Set,Transfer_To_Agent,connect to agent
+My_First_Intent_Set,Transfer_To_Agent,connect to human
+My_First_Intent_Set,Transfer_To_Agent,connect to live agent
+My_First_Intent_Set,Transfer_To_Agent,Contact agent
+My_First_Intent_Set,Transfer_To_Agent,do not want to chat with a bot
+My_First_Intent_Set,Transfer_To_Agent,Do you have any real humans to can talk to?
+My_First_Intent_Set,Transfer_To_Agent,Don't know how much I am paying you
+My_First_Intent_Set,Transfer_To_Agent,Find me a human
+My_First_Intent_Set,Transfer_To_Agent,Find me a real person
+My_First_Intent_Set,Transfer_To_Agent,Find me a service rep
+My_First_Intent_Set,Transfer_To_Agent,Find me an agent
+My_First_Intent_Set,Transfer_To_Agent,Get a human being to help me
+My_First_Intent_Set,Transfer_To_Agent,Get a human for me
+My_First_Intent_Set,Transfer_To_Agent,Get a live agent to help me
+My_First_Intent_Set,Transfer_To_Agent,Get a person to help me
+My_First_Intent_Set,Transfer_To_Agent,Get a real person to help me
+My_First_Intent_Set,Transfer_To_Agent,Get a service rep to help me
+My_First_Intent_Set,Transfer_To_Agent,Get me a human to talk to
+My_First_Intent_Set,Transfer_To_Agent,Get me a person to talk to
+My_First_Intent_Set,Transfer_To_Agent,Get me a service rep to talk to
+My_First_Intent_Set,Transfer_To_Agent,Get me an agent to talk to
+My_First_Intent_Set,Transfer_To_Agent,Give me an agent.
+My_First_Intent_Set,Transfer_To_Agent,Help me now please!
+My_First_Intent_Set,Transfer_To_Agent,How can I chat with a person?
+My_First_Intent_Set,Transfer_To_Agent,how do I get to a human
+My_First_Intent_Set,Transfer_To_Agent,How do I get to an agent?
+My_First_Intent_Set,Transfer_To_Agent,How do I talk to a human?
+My_First_Intent_Set,Transfer_To_Agent,how do I talk to a person
+My_First_Intent_Set,Transfer_To_Agent,Human
+My_First_Intent_Set,Transfer_To_Agent,human being to talk to
+My_First_Intent_Set,Transfer_To_Agent,I don't love talking to a bot
+My_First_Intent_Set,Transfer_To_Agent,I don't think you can help me
+My_First_Intent_Set,Transfer_To_Agent,I don't want to chat with a bot
+My_First_Intent_Set,Transfer_To_Agent,I have some issues and need to speak to someone
+My_First_Intent_Set,Transfer_To_Agent,I just want to be transferred to someone who knows what they're saying
+My_First_Intent_Set,Transfer_To_Agent,I need an agent!
+My_First_Intent_Set,Transfer_To_Agent,I need an expert to help with this
+My_First_Intent_Set,Transfer_To_Agent,I need help from a human
+My_First_Intent_Set,Transfer_To_Agent,I need help from a live agent
+My_First_Intent_Set,Transfer_To_Agent,I need help from a person
+My_First_Intent_Set,Transfer_To_Agent,I need help from a real person
+My_First_Intent_Set,Transfer_To_Agent,I need help from a service rep
+My_First_Intent_Set,Transfer_To_Agent,I need help from an agent!
+My_First_Intent_Set,Transfer_To_Agent,I need service
+My_First_Intent_Set,Transfer_To_Agent,I need some expert help here. Can you transfer me please?
+My_First_Intent_Set,Transfer_To_Agent,I need to speak with an agent
+My_First_Intent_Set,Transfer_To_Agent,I need to talk to a live agent
+My_First_Intent_Set,Transfer_To_Agent,I really need to be transferred
+My_First_Intent_Set,Transfer_To_Agent,I think I'm going to need a human for this
+My_First_Intent_Set,Transfer_To_Agent,I think I'm going to need a live agent for this
+My_First_Intent_Set,Transfer_To_Agent,I think I'm going to need a person for this
+My_First_Intent_Set,Transfer_To_Agent,I think I'm going to need a real person for this
+My_First_Intent_Set,Transfer_To_Agent,I think I'm going to need an agent for this
+My_First_Intent_Set,Transfer_To_Agent,I think I'm going to need an expert for this
+My_First_Intent_Set,Transfer_To_Agent,I want a human
+My_First_Intent_Set,Transfer_To_Agent,I want a person
+My_First_Intent_Set,Transfer_To_Agent,I want to chat with a human
+My_First_Intent_Set,Transfer_To_Agent,I want to chat with a live agent
+My_First_Intent_Set,Transfer_To_Agent,I want to chat with a person
+My_First_Intent_Set,Transfer_To_Agent,I want to chat with a real person
+My_First_Intent_Set,Transfer_To_Agent,I want to chat with a rep
+My_First_Intent_Set,Transfer_To_Agent,I want to chat with a service rep
+My_First_Intent_Set,Transfer_To_Agent,I want to chat with customer service
+My_First_Intent_Set,Transfer_To_Agent,I want to go to an agent
+My_First_Intent_Set,Transfer_To_Agent,I want to speak with customer service
+My_First_Intent_Set,Transfer_To_Agent,I want to speak with support
+My_First_Intent_Set,Transfer_To_Agent,I want to talk to a human!
+My_First_Intent_Set,Transfer_To_Agent,I want to talk with a person
+My_First_Intent_Set,Transfer_To_Agent,I want to talk with someone else
+My_First_Intent_Set,Transfer_To_Agent,I want you to transfer me to a human right now
+My_First_Intent_Set,Transfer_To_Agent,I'd like to learn more about your solar solution. Do you have someone available that can walk me and my wife through the benefits and costs?
+My_First_Intent_Set,Transfer_To_Agent,Just connect me to a human.
+My_First_Intent_Set,Transfer_To_Agent,Just send me to a human
+My_First_Intent_Set,Transfer_To_Agent,let me chat with a human please
+My_First_Intent_Set,Transfer_To_Agent,Let me chat with car
+My_First_Intent_Set,Transfer_To_Agent,Let me chat with CSR
+My_First_Intent_Set,Transfer_To_Agent,Let me chat with customer service
+My_First_Intent_Set,Transfer_To_Agent,Let me talk to someone
+My_First_Intent_Set,Transfer_To_Agent,Need to speak with support
+My_First_Intent_Set,Transfer_To_Agent,Person please
+My_First_Intent_Set,Transfer_To_Agent,really need a human being
+My_First_Intent_Set,Transfer_To_Agent,Representative
+My_First_Intent_Set,Transfer_To_Agent,send me to a human
+My_First_Intent_Set,Transfer_To_Agent,send me to a live agent
+My_First_Intent_Set,Transfer_To_Agent,send me to a service rep
+My_First_Intent_Set,Transfer_To_Agent,send me to an agent
+My_First_Intent_Set,Transfer_To_Agent,Send me to your supervisor
+My_First_Intent_Set,Transfer_To_Agent,"""Sorry pinocchio, I want to chat with a real boy"""
+My_First_Intent_Set,Transfer_To_Agent,Speak to agent
+My_First_Intent_Set,Transfer_To_Agent,Speak with human
+My_First_Intent_Set,Transfer_To_Agent,Speak with person
+My_First_Intent_Set,Transfer_To_Agent,Speak with supervisor
+My_First_Intent_Set,Transfer_To_Agent,"""Take me to a human, I don't want to talk to you"""
+My_First_Intent_Set,Transfer_To_Agent,Take me to your leader
+My_First_Intent_Set,Transfer_To_Agent,Talk to a person
+My_First_Intent_Set,Transfer_To_Agent,Talk to an agent!
+My_First_Intent_Set,Transfer_To_Agent,Talk to manager
+My_First_Intent_Set,Transfer_To_Agent,Transfer manager
+My_First_Intent_Set,Transfer_To_Agent,Transfer me
+My_First_Intent_Set,Transfer_To_Agent,transfer me to a chat agent
+My_First_Intent_Set,Transfer_To_Agent,transfer me to a human
+My_First_Intent_Set,Transfer_To_Agent,Transfer me to a person
+My_First_Intent_Set,Transfer_To_Agent,Transfer me to an agent
+My_First_Intent_Set,Transfer_To_Agent,transfer to agent
+My_First_Intent_Set,Transfer_To_Agent,Transfer to billing department
+My_First_Intent_Set,Transfer_To_Agent,Transfer to supervisor
+My_First_Intent_Set,Transfer_To_Agent,Ugh I'm tired of talking to a robot send me to a human
+My_First_Intent_Set,Transfer_To_Agent,want a human
+My_First_Intent_Set,Transfer_To_Agent,want a real person
+My_First_Intent_Set,Transfer_To_Agent,want to chat with a human being
+My_First_Intent_Set,Transfer_To_Agent,want to chat with a real person
+My_First_Intent_Set,Transfer_To_Agent,We are done here.
+My_First_Intent_Set,Transfer_To_Agent,Where can I chat with an expert
+My_First_Intent_Set,Transfer_To_Agent,Where do I find an expert to chat with?
+My_First_Intent_Set,Transfer_To_Agent,Why am I talking to a robot?
+My_First_Intent_Set,Transfer_To_Agent,xfer me
+My_First_Intent_Set,Transfer_To_Agent,xfer me to a human being
+My_First_Intent_Set,Transfer_To_Agent,xfer me to a live agent
+My_First_Intent_Set,Transfer_To_Agent,xfer me to a person
+My_First_Intent_Set,Transfer_To_Agent,xfer me to a real person
+My_First_Intent_Set,Transfer_To_Agent,xfer me to a service rep
+My_First_Intent_Set,Transfer_To_Agent,xfer me to an agent
