@@ -1,0 +1,151 @@
+MlDomainName,MlIntentName,Utterance
+My_First_Intent_Set,Appointment_Related,Book appointment
+My_First_Intent_Set,Appointment_Related,Book me
+My_First_Intent_Set,Appointment_Related,Book technician
+My_First_Intent_Set,Appointment_Related,Book time
+My_First_Intent_Set,Appointment_Related,Book time slot
+My_First_Intent_Set,Appointment_Related,bring my for checkup
+My_First_Intent_Set,Appointment_Related,bring my in for regular maintenance
+My_First_Intent_Set,Appointment_Related,bring my in for service
+My_First_Intent_Set,Appointment_Related,broke down
+My_First_Intent_Set,Appointment_Related,Can I book appointment
+My_First_Intent_Set,Appointment_Related,can I come in tomorrow
+My_First_Intent_Set,Appointment_Related,Can I get somebody to come to my plan to adjust the solar panel?
+My_First_Intent_Set,Appointment_Related,Can I get someone to clean my solar panels?
+My_First_Intent_Set,Appointment_Related,Can I get someone to install my panels?
+My_First_Intent_Set,Appointment_Related,Can I make a Service appt
+My_First_Intent_Set,Appointment_Related,Can I make an appointment for someone to look at my solar panels
+My_First_Intent_Set,Appointment_Related,Can I schedule a new appointment
+My_First_Intent_Set,Appointment_Related,Can I schedule a new appointment?
+My_First_Intent_Set,Appointment_Related,Can I schedule an appointment about getting my solar panels adjusted
+My_First_Intent_Set,Appointment_Related,Can you come tomorrow
+My_First_Intent_Set,Appointment_Related,Can you schedule a repair visit?
+My_First_Intent_Set,Appointment_Related,Can you schedule someone to come to my home and take a look at my home energy system?
+My_First_Intent_Set,Appointment_Related,Can you schedule your tech to be here tomorrow morning at 8?
+My_First_Intent_Set,Appointment_Related,Can you send a maintenance person out?
+My_First_Intent_Set,Appointment_Related,Can you send me a repair person?
+My_First_Intent_Set,Appointment_Related,Can you send me times to schedule an appointment?
+My_First_Intent_Set,Appointment_Related,cracked my solar panel and I need it repaired ASAP.
+My_First_Intent_Set,Appointment_Related,damaged and i'd like to bring it in for repair
+My_First_Intent_Set,Appointment_Related,Find time slot
+My_First_Intent_Set,Appointment_Related,got damaged in a storm i need to bring it in for service
+My_First_Intent_Set,Appointment_Related,have for a visit?
+My_First_Intent_Set,Appointment_Related,Help! I can't seem to turn on the tracking meter display. Can we plan another visit by your technician?
+My_First_Intent_Set,Appointment_Related,Hey I need to schedule an appointment
+My_First_Intent_Set,Appointment_Related,"Hey Sunny, Can you get someone to my house? One of my solar panels is damaged"
+My_First_Intent_Set,Appointment_Related,Hi I need to set up an appointment
+My_First_Intent_Set,Appointment_Related,Hi I would like to schedule a new appointment to install my solar panels.
+My_First_Intent_Set,Appointment_Related,Home visit
+My_First_Intent_Set,Appointment_Related,How can I schedule an appt?
+My_First_Intent_Set,Appointment_Related,How do I make appt
+My_First_Intent_Set,Appointment_Related,I am hoping to schedule my installation for next Friday
+My_First_Intent_Set,Appointment_Related,I am looking to schedule an installation for my panels
+My_First_Intent_Set,Appointment_Related,I need a new appointment for someone to look at my wind turbine
+My_First_Intent_Set,Appointment_Related,I need a repair appointment
+My_First_Intent_Set,Appointment_Related,I need a technician to help fix my turbine
+My_First_Intent_Set,Appointment_Related,I need a technician to repair my broken turbine
+My_First_Intent_Set,Appointment_Related,I need an appointment for my appointment
+My_First_Intent_Set,Appointment_Related,I need help early next week to repair my solar panel at my house.
+My_First_Intent_Set,Appointment_Related,I need onsite assistance. Can you help me?
+My_First_Intent_Set,Appointment_Related,I need somebody to come onsite to fix my turbine issue. When can you be here
+My_First_Intent_Set,Appointment_Related,I need someone to come out and take a look at my turbine
+My_First_Intent_Set,Appointment_Related,I need someone to come to my house for a repair
+My_First_Intent_Set,Appointment_Related,I need someone to fix my panel
+My_First_Intent_Set,Appointment_Related,I need to have you come out this week to install. Can you be here Friday afternoon?
+My_First_Intent_Set,Appointment_Related,I need to schedule a new appointment
+My_First_Intent_Set,Appointment_Related,I need to schedule a repair
+My_First_Intent_Set,Appointment_Related,I need to schedule a repair for solar panels
+My_First_Intent_Set,Appointment_Related,I need to schedule a repair visit
+My_First_Intent_Set,Appointment_Related,I need to schedule a service appt
+My_First_Intent_Set,Appointment_Related,I need to schedule an appointment
+My_First_Intent_Set,Appointment_Related,I need to schedule an appointment to fix my wind turbine
+My_First_Intent_Set,Appointment_Related,I need to schedule an installation
+My_First_Intent_Set,Appointment_Related,I need to schedule an onsite resource to fix my solar panel. When can you be here
+My_First_Intent_Set,Appointment_Related,I need to set up a service appointment
+My_First_Intent_Set,Appointment_Related,I want a repair appointment
+My_First_Intent_Set,Appointment_Related,I want to schedule a thing
+My_First_Intent_Set,Appointment_Related,I want to schedule an appointment for service of my wind turbines
+My_First_Intent_Set,Appointment_Related,I want to schedule an appt
+My_First_Intent_Set,Appointment_Related,I want to schedule time with a tech for my components including solar panels.
+My_First_Intent_Set,Appointment_Related,I want to set up an appointment to have my solar panels serviced
+My_First_Intent_Set,Appointment_Related,I would like to find a time for my installation
+My_First_Intent_Set,Appointment_Related,I would like to schedule a service appointment
+My_First_Intent_Set,Appointment_Related,I'd like someone to come by on Friday and fix my product after 2pm would be good.
+My_First_Intent_Set,Appointment_Related,I'd like to schedule a maintenance appointment
+My_First_Intent_Set,Appointment_Related,I'd like to schedule a new appointment
+My_First_Intent_Set,Appointment_Related,I'd like to schedule a new appointment with someone to take a look at my solar panel installation
+My_First_Intent_Set,Appointment_Related,I'm back in town on February 4th. Can I schedule the installation for that week?
+My_First_Intent_Set,Appointment_Related,is damaged
+My_First_Intent_Set,Appointment_Related,Just had some hail and now our energy is showing low. Can we get someone out to our home to look at it?
+My_First_Intent_Set,Appointment_Related,Lets do the install at 10 on Fri am
+My_First_Intent_Set,Appointment_Related,lightning struck my can I bring it in for repairs
+My_First_Intent_Set,Appointment_Related,like to make a repair appointment
+My_First_Intent_Set,Appointment_Related,list schedule times
+My_First_Intent_Set,Appointment_Related,make an appointment for tomorrow
+My_First_Intent_Set,Appointment_Related,May I please book a new appointment
+My_First_Intent_Set,Appointment_Related,My battery doesn't seem to be working. I need to get someone to fix it.
+My_First_Intent_Set,Appointment_Related,"My phone number has changed, how can I get it updated in your records?"
+My_First_Intent_Set,Appointment_Related,My roof is leaking! I think it may be the new solar panels. I need someone here ASAP!
+My_First_Intent_Set,Appointment_Related,"My solar panel needs repair, when can you come onsite?"
+My_First_Intent_Set,Appointment_Related,My turbine is broken. I need someone to fix it.
+My_First_Intent_Set,Appointment_Related,need appointment
+My_First_Intent_Set,Appointment_Related,Need appt
+My_First_Intent_Set,Appointment_Related,Need onsite assistance in regards to my turbine issues. When can you be here
+My_First_Intent_Set,Appointment_Related,Need tech
+My_First_Intent_Set,Appointment_Related,Need technician
+My_First_Intent_Set,Appointment_Related,Need to book a new appointment
+My_First_Intent_Set,Appointment_Related,Need to book appointment
+My_First_Intent_Set,Appointment_Related,need to bring it in
+My_First_Intent_Set,Appointment_Related,need to bring my in to fix
+My_First_Intent_Set,Appointment_Related,Need to have somebody onsite to fix my solar panels. When can you be here?
+My_First_Intent_Set,Appointment_Related,Need to schedule service
+My_First_Intent_Set,Appointment_Related,need you to take a look at my
+My_First_Intent_Set,Appointment_Related,needs some repair
+My_First_Intent_Set,Appointment_Related,needs to be checked
+My_First_Intent_Set,Appointment_Related,New appointment
+My_First_Intent_Set,Appointment_Related,New appointment required
+My_First_Intent_Set,Appointment_Related,New appt pls
+My_First_Intent_Set,Appointment_Related,New service appointment
+My_First_Intent_Set,Appointment_Related,New visit
+My_First_Intent_Set,Appointment_Related,Onsite help
+My_First_Intent_Set,Appointment_Related,Onsite tech
+My_First_Intent_Set,Appointment_Related,Panel needs someone to replace
+My_First_Intent_Set,Appointment_Related,Please have a tech come out to my house to repair my turbine this Friday.
+My_First_Intent_Set,Appointment_Related,Please schedule my appointment on Friday Feb. 1 at 3pm to fix my panel.
+My_First_Intent_Set,Appointment_Related,Please set new appointment
+My_First_Intent_Set,Appointment_Related,schedule a maintenance appointment
+My_First_Intent_Set,Appointment_Related,schedule a service appointment
+My_First_Intent_Set,Appointment_Related,Schedule a visit
+My_First_Intent_Set,Appointment_Related,schedule an appointment
+My_First_Intent_Set,Appointment_Related,Schedule appointment
+My_First_Intent_Set,Appointment_Related,Schedule appointment for you to fix my wind turbine
+My_First_Intent_Set,Appointment_Related,Schedule me
+My_First_Intent_Set,Appointment_Related,Schedule my appointment
+My_First_Intent_Set,Appointment_Related,Schedule service
+My_First_Intent_Set,Appointment_Related,schedule service appointments
+My_First_Intent_Set,Appointment_Related,Schedule slot
+My_First_Intent_Set,Appointment_Related,Schedule tech
+My_First_Intent_Set,Appointment_Related,Schedule time
+My_First_Intent_Set,Appointment_Related,Schedule visit
+My_First_Intent_Set,Appointment_Related,Send someone out here
+My_First_Intent_Set,Appointment_Related,service for my
+My_First_Intent_Set,Appointment_Related,stop by tomorrow morning so that you can check my
+My_First_Intent_Set,Appointment_Related,stopped working
+My_First_Intent_Set,Appointment_Related,Tech onsite
+My_First_Intent_Set,Appointment_Related,want to bring my for service
+My_First_Intent_Set,Appointment_Related,want to schedule a visit for service
+My_First_Intent_Set,Appointment_Related,want to schedule an appointment
+My_First_Intent_Set,Appointment_Related,What are the times available for a Cirrus Energy technician to perform a service call?
+My_First_Intent_Set,Appointment_Related,What openings does your field service techs have for next week?
+My_First_Intent_Set,Appointment_Related,what time can my thing be fixed
+My_First_Intent_Set,Appointment_Related,what time can the man come about fixing my stuff
+My_First_Intent_Set,Appointment_Related,what time can the man come about my stuff?
+My_First_Intent_Set,Appointment_Related,what time can you be here
+My_First_Intent_Set,Appointment_Related,What would be a good time for a service tech to come look at our solar panel damage?
+My_First_Intent_Set,Appointment_Related,when can my stuff be fixed
+My_First_Intent_Set,Appointment_Related,When can you come onsite to fix my battery issues
+My_First_Intent_Set,Appointment_Related,When can you have someone onsite to fix my battery issues?
+My_First_Intent_Set,Appointment_Related,When is the earliest I can schedule service for my solar panels?
+My_First_Intent_Set,Appointment_Related,where can I bring my
+My_First_Intent_Set,Appointment_Related,Who can fix my panel?
+My_First_Intent_Set,Appointment_Related,would like to schedule a repair appointment
