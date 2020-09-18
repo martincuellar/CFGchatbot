@@ -13,7 +13,7 @@
 	var initESW = function(gslbBaseURL) {
 		embedded_svc.settings.displayHelpButton = true; //Or false
 		embedded_svc.settings.language = ''; //For example, enter 'en' or 'en-US'
-		embedded_svc.settings.chatbotAvatarImgURL = 'https://pbs.twimg.com/profile_images/1289019434082930688/-m5VPUXe_400x400.jpg';
+		embedded_svc.settings.chatbotAvatarImgURL = 'https://cloud4good.com/wp-content/uploads/2020/09/Chatbot-Robot-Avatar-40x40-1.jpg';
 
 
 		embedded_svc.settings.defaultMinimizedText = 'Chat with our bot'; //(Defaults to Chat with an Expert)
