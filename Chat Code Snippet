@@ -2,6 +2,7 @@
 	.embeddedServiceHelpButton .helpButton .uiButton {
 		background-color: #2C4E7B;
 		font-family: "Arial", sans-serif;
+		color: white !important;
 	}
 	.embeddedServiceHelpButton .helpButton .uiButton:focus {
 		outline: 1px solid #2C4E7B;
