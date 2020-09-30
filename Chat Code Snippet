@@ -99,8 +99,8 @@
 		//  "transcriptFields": ["cfg_Phone__c"]
 		//},{
 		  "label":"InvitePage",
-		  "value":"Careers",
-		  "displayToAgent": True,
+		  "value":pagename,
+		  "displayToAgent": true,
 		  "transcriptFields": ["cfg_Invitation_Page__c"]
 		}];
 
