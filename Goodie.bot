@@ -9819,6 +9819,16 @@ Click here for current job postings: https://cloud4good.com/best-job-ever/</mess
         <developerName>RoutableId</developerName>
         <label>Routable Id</label>
     </contextVariables>
+    <contextVariables>
+        <contextVariableMappings>
+            <SObjectType>LiveChatTranscript</SObjectType>
+            <fieldName>LiveChatTranscript.cfg_Invitation_Page__c</fieldName>
+            <messageType>WebChat</messageType>
+        </contextVariableMappings>
+        <dataType>Text</dataType>
+        <developerName>InvitationPage</developerName>
+        <label>Invitation Page</label>
+    </contextVariables>
     <label>Goodie</label>
     <logPrivateConversationData>true</logPrivateConversationData>
 </Bot>
