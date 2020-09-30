@@ -1,3 +1,4 @@
+
 <style type='text/css'>
 	.embeddedServiceHelpButton .helpButton .uiButton {
 		background-color: #2C4E7B;
@@ -12,16 +13,15 @@
 }
 </style>
 
+
 <!-- Start of Invitations -->
 <div class="embeddedServiceInvitation" id="snapins_invite" aria-live="assertive" role="dialog" aria-atomic="true">
 	<div class="embeddedServiceInvitationHeader" aria-labelledby="snapins_titletext" aria-describedby="snapins_bodytext">
 		<img id="embeddedServiceAvatar">
-		// BOT INVITATION TITLE 
-		<span class="embeddedServiceTitleText" id="snapins_titletext">Chat with our bot</span>
+		<span class="embeddedServiceTitleText" id="snapins_titletext">Chat With Goodie</span>
 		<button type="button" id="closeInvite" class="embeddedServiceCloseIcon" aria-label="Exit invitation">&times;</button>
 	</div>
 	<div class="embeddedServiceInvitationBody">
-		// BOT INVITATION BODY MESSAGE
 		<p id="snapins_bodytext">Not seeing the position you were looking for? Feel free to let me know what type of position you're interested in!</p>
 	</div>
 	<div class="embeddedServiceInvitationFooter" aria-describedby="snapins_bodytext">
@@ -46,6 +46,8 @@
 	.embeddedServiceInvitationFooter > .embeddedServiceActionButton { font-size: 14px; max-height: 40px; border: none; border-radius: 4px; padding: 10px; margin: 4px; text-align: center; text-decoration: none; display: inline-block; cursor: pointer; }
 	.embeddedServiceInvitationFooter > #acceptInvite { background-color: #2C4E7B; color: #FFFFFF; }
 	.embeddedServiceInvitationFooter > #rejectInvite { background-color: #FFFFFF; color: #2C4E7B; }
+
+
 </style>
 
 <script type='text/javascript'>
@@ -57,6 +59,7 @@
 	})();
 </script>
 <!-- End of Invitations -->
+
 
 <script type='text/javascript' src='https://service.force.com/embeddedservice/5.0/esw.min.js'></script>
 <script type='text/javascript'>
@@ -83,7 +86,6 @@
 
 		embedded_svc.settings.enabledFeatures = ['LiveAgent'];
 		embedded_svc.settings.entryFeature = 'LiveAgent';
-		
 		//capture pre-chat form fields to Chat Transcript object
 		embedded_svc.settings.extraPrechatFormDetails = [{
 		//  "label":"First Name",  
@@ -99,11 +101,10 @@
 		//  "transcriptFields": ["cfg_Phone__c"]
 		//},{
 		  "label":"InvitePage",
-		  "value":pagename,
+		  "value":window.location.pathname,
 		  "displayToAgent": true,
 		  "transcriptFields": ["cfg_Invitation_Page__c"]
 		}];
-
 		embedded_svc.init(
 			'https://cloud4good--partial.my.salesforce.com',
 			'https://partial-cloud4good.cs28.force.com',
@@ -120,6 +121,18 @@
 			}
 		);
 	};
+
+	if (!window.embedded_svc) {
+		var s = document.createElement('script');
+		s.setAttribute('src', 'https://cloud4good--partial.my.salesforce.com/embeddedservice/5.0/esw.min.js');
+		s.onload = function() {
+			initESW(null);
+		};
+		document.body.appendChild(s);
+	} else {
+		initESW('https://service.force.com');
+	}
+</script>
 
 	if (!window.embedded_svc) {
 		var s = document.createElement('script');
