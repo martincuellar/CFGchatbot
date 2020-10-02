@@ -1,4 +1,3 @@
-
 <style type='text/css'>
 	.embeddedServiceHelpButton .helpButton .uiButton {
 		background-color: #2C4E7B;
@@ -13,16 +12,15 @@
 }
 </style>
 
-
 <!-- Start of Invitations -->
 <div class="embeddedServiceInvitation" id="snapins_invite" aria-live="assertive" role="dialog" aria-atomic="true">
 	<div class="embeddedServiceInvitationHeader" aria-labelledby="snapins_titletext" aria-describedby="snapins_bodytext">
 		<img id="embeddedServiceAvatar">
-		<span class="embeddedServiceTitleText" id="snapins_titletext">Chat With Goodie</span>
+		<span class="embeddedServiceTitleText" id="snapins_titletext"></span>
 		<button type="button" id="closeInvite" class="embeddedServiceCloseIcon" aria-label="Exit invitation">&times;</button>
 	</div>
 	<div class="embeddedServiceInvitationBody">
-		<p id="snapins_bodytext">Not seeing the position you were looking for? Feel free to let me know what type of position you're interested in!</p>
+		<p id="snapins_bodytext"></p>
 	</div>
 	<div class="embeddedServiceInvitationFooter" aria-describedby="snapins_bodytext">
 		<button type="button" class="embeddedServiceActionButton" id="rejectInvite">Close</button>
@@ -52,6 +50,21 @@
 
 <script type='text/javascript'>
 	(function() {
+		var popupTitleText = 'Chat with our bot';
+		var popupBody = '';
+		switch(window.location.pathname){
+			case "/best-job-ever/":
+				popupBody = "Not seeing the position you were looking for? Feel free to let me know what type of position you're interested in!";
+				break;
+			case "/diversity-inclusion/":
+				popupBody = "We love D+I";
+				break;
+			default:
+				popupBody = "Our bot is here to help get you answers";
+				break;
+		}
+		document.getElementById('snapins_titletext').innerHTML = popupTitleText;
+		document.getElementById('snapins_bodytext').innerHTML = popupBody;
 		document.getElementById('closeInvite').onclick = function() { embedded_svc.inviteAPI.inviteButton.rejectInvite(); };
 		document.getElementById('rejectInvite').onclick = function() { embedded_svc.inviteAPI.inviteButton.rejectInvite(); }; // use this API call to reject invitations
 		document.getElementById('acceptInvite').onclick = function() { embedded_svc.inviteAPI.inviteButton.acceptInvite(); }; // use this API call to start chat from invitations
@@ -59,7 +72,6 @@
 	})();
 </script>
 <!-- End of Invitations -->
-
 
 <script type='text/javascript' src='https://service.force.com/embeddedservice/5.0/esw.min.js'></script>
 <script type='text/javascript'>
@@ -121,18 +133,6 @@
 			}
 		);
 	};
-
-	if (!window.embedded_svc) {
-		var s = document.createElement('script');
-		s.setAttribute('src', 'https://cloud4good--partial.my.salesforce.com/embeddedservice/5.0/esw.min.js');
-		s.onload = function() {
-			initESW(null);
-		};
-		document.body.appendChild(s);
-	} else {
-		initESW('https://service.force.com');
-	}
-</script>
 
 	if (!window.embedded_svc) {
 		var s = document.createElement('script');
