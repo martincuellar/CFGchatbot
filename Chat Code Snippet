@@ -118,17 +118,17 @@
 		  "transcriptFields": ["cfg_Invitation_Page__c"]
 		}];
 		embedded_svc.init(
-			'https://cloud4good--partial.my.salesforce.com',
-			'https://partial-cloud4good.cs28.force.com',
+			'https://cloud4good.my.salesforce.com',
+			'https://cloud4good.secure.force.com',
 			gslbBaseURL,
-			'00D230000000mSF',
+			'00D80000000MC5C',
 			'Chatbot_Deployment',
 			{
-				baseLiveAgentContentURL: 'https://c.la1-c1cs-ph2.salesforceliveagent.com/content',
-				deploymentId: '57223000000008f',
-				buttonId: '5732300000000I1',
-				baseLiveAgentURL: 'https://d.la1-c1cs-ph2.salesforceliveagent.com/chat',
-				eswLiveAgentDevName: 'Chatbot_Team',
+				baseLiveAgentContentURL: 'https://c.la2-c2-iad.salesforceliveagent.com/content',
+				deploymentId: '5720h000000fyId',
+				buttonId: '5730h000000fyH3',
+				baseLiveAgentURL: 'https://d.la2-c2-iad.salesforceliveagent.com/chat',
+				eswLiveAgentDevName: 'EmbeddedServiceLiveAgent_Parent04I0h000000PAuYEAW_174f9d6a307',
 				isOfflineSupportEnabled: false
 			}
 		);
@@ -136,7 +136,7 @@
 
 	if (!window.embedded_svc) {
 		var s = document.createElement('script');
-		s.setAttribute('src', 'https://cloud4good--partial.my.salesforce.com/embeddedservice/5.0/esw.min.js');
+		s.setAttribute('src', 'https://cloud4good.my.salesforce.com/embeddedservice/5.0/esw.min.js');
 		s.onload = function() {
 			initESW(null);
 		};
