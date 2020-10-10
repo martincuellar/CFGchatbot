@@ -49,26 +49,26 @@
 </style>
 
 <script type='text/javascript'>
-	(function() {
-		var popupTitleText = '';
-		var popupBody = '';
-		switch(window.location.pathname){
-			case "/best-job-ever/":
-				popupTitleText = "Goodiebot can help"
-				popupBody = "Feel free to let me know what type of position you're interested in!";
-				break;
-			case "/diversity-inclusion/":
-				popupTitleText = "Chat to learn more"
-				popupBody = "We love D+I";
-				break;
-			case "/":
-				popupBody = "Let Goodie be your guide";
-				break;
-			default:
-				popupTitleText = "Chat with our bot"
-				popupBody = "Goodie is here to help get you answers";
-				break;
-		}
+    (function() { 
+        var popupTitleText = ''; 
+        var popupBody = ''; 
+        switch(window.location.pathname){ 
+            case "/best-job-ever/": 
+                popupTitleText = "Goodiebot can help" 
+                popupBody = "This is an link on our site, so the URL is very simple. <a href='https://cfgdev.site/contact-us/'>Contact Us</a>"; 
+                break; 
+            case "/diversity-inclusion/": 
+                popupTitleText = "Chat to learn more" 
+                popupBody = "This is an external link, so we use Target in the URL to open it in a new tab. <a target='_blank' href='https://example.com'>Website</a>"; 
+                break; 
+            case "/": 
+                popupBody = "Let Goodie be your guide"; 
+                break; 
+            default: 
+                popupTitleText = "Chat with our bot" 
+                popupBody = "Goodie is here to help get you answers"; 
+                break; 
+        } 
 		document.getElementById('snapins_titletext').innerHTML = popupTitleText;
 		document.getElementById('snapins_bodytext').innerHTML = popupBody;
 		document.getElementById('closeInvite').onclick = function() { embedded_svc.inviteAPI.inviteButton.rejectInvite(); };
